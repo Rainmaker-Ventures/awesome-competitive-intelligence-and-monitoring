@@ -198,6 +198,7 @@ Open-source tools and libraries for CI.
 - **[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)** - HTML/XML parsing (Python).
 - **[Apify](https://apify.com/)** - Web scraping and automation platform (open-source SDKs).
 - **[ChangeTower Open Source](https://github.com/changetower)** - Website monitoring tools.
+- **[repo-intel](https://github.com/oxnr/repo-intel)** - AI-powered GitHub competitive intelligence Action. Monitors competitor repos for commits, releases, contributors, and issues, then delivers strategic digests as GitHub Issues.
 
 ---
 
