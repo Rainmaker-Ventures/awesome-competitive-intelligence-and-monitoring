@@ -99,6 +99,7 @@ Stay updated on competitor mentions and press coverage.
 - **[Talkwalker](https://www.talkwalker.com/)** - Social listening and media monitoring.
 - **[Cision](https://www.cision.com/)** - PR and media monitoring platform.
 - **[Mention](https://mention.com/)** - Real-time monitoring of web and social mentions.
+- **[Superhighway Patent Research Agent](https://superhighway.walls.sh/guides/patent-research-agent)** - Python agent that tracks competitor patent filings, maps patent landscapes, finds prior art, and assesses freedom-to-operate risk using live web search. Outputs structured patent intelligence briefs for monitoring rivals' R&D activity. Pay-per-call, no signup.
 
 ### Tech Stack Detection
 
