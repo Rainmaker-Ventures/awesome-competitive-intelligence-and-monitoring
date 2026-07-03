@@ -40,6 +40,7 @@ Comprehensive platforms that monitor multiple competitor signals in one place.
 - **[Kompyte](https://www.kompyte.com/)** - Real-time competitive insights across digital channels.
 - **[Klue](https://klue.com/)** - Competitive enablement platform for tracking and distributing competitive insights.
 - **[Contify](https://www.contify.com/)** - Market and competitive intelligence platform with AI-powered curation.
+- **[GetAppNiche](https://getappniche.com/)** - iOS App Store competitive intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 
 ### Website Monitoring
 
