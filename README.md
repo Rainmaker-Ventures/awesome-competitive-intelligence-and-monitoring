@@ -35,6 +35,7 @@ Competitive Intelligence (CI) helps businesses monitor competitors' activities, 
 
 Comprehensive platforms that monitor multiple competitor signals in one place.
 
+- **[AdMapix](https://www.admapix.com)** - AI ad creative intelligence for competitor research across mobile games, apps, and ecommerce.
 - **[Parano.ai](https://parano.ai)** - AI-powered competitive intelligence platform that tracks competitor marketing, product updates, pricing, reviews, hires, and website changes. Delivers insights via email, Slack, and Teams.
 - **[Crayon](https://www.crayon.co/)** - Enterprise competitive intelligence platform with battlecards and market intelligence.
 - **[Kompyte](https://www.kompyte.com/)** - Real-time competitive insights across digital channels.
