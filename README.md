@@ -108,6 +108,7 @@ Discover what technologies competitors are using.
 - **[Wappalyzer](https://www.wappalyzer.com/)** - Identify web technologies.
 - **[SimilarTech](https://www.similartech.com/)** - Technology adoption and market share data.
 - **[Datanyze](https://www.datanyze.com/)** - Technographics and market intelligence.
+- **[StackScan](https://www.stackscan.com/)** - Technology lookup and market share data across 399M+ websites.
 - **[StackShare](https://stackshare.io/)** - Tech stack discovery and sharing.
 
 ### Review & Sentiment Analysis
@@ -162,6 +163,7 @@ In-depth resources and guides.
 - [First Round Review: Competitive Intelligence](https://review.firstround.com/the-art-of-the-start-guide-to-competitive-intelligence)
 - [Gartner's CI Best Practices](https://www.gartner.com/en/sales/topics/competitive-intelligence)
 - [CB Insights Research](https://www.cbinsights.com/research/) - Market intelligence reports
+- [CMS Statistics 2026](https://www.stackscan.com/blog/cms-statistics) - Platform market share measured across 179.2 million live websites
 
 ---
 
