@@ -198,6 +198,7 @@ Open-source tools and libraries for CI.
 - **[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)** - HTML/XML parsing (Python).
 - **[Apify](https://apify.com/)** - Web scraping and automation platform (open-source SDKs).
 - **[ChangeTower Open Source](https://github.com/changetower)** - Website monitoring tools.
+- **[xscout](https://github.com/ethan-ab/xscout-jev)** - Open-source X monitor that scores competitor and market posts with an LLM and sends big or trending updates to Slack.
 
 ---
 
