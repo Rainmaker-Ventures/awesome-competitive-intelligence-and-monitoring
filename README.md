@@ -210,6 +210,7 @@ Public data sources for competitive research.
 - **[PitchBook](https://pitchbook.com/)** - Private market data.
 - **[CB Insights](https://www.cbinsights.com/)** - Tech market intelligence.
 - **[AngelList](https://angel.co/)** - Startup data and jobs.
+- **[FalcoScan](https://falcoscan.com/)** - AI market intelligence across 7,000+ AI products.
 
 ### Financial Data
 - **[SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html)** - Public company filings (U.S.).
