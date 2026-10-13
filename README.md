@@ -50,6 +50,7 @@ Tools for tracking changes on competitor websites.
 - **[Distill Web Monitor](https://distill.io/)** - Browser extension for monitoring web pages.
 - **[ChangeTower](https://changetower.com/)** - Website change monitoring for agencies and enterprises.
 - **[Fluxguard](https://fluxguard.com/)** - Website change monitoring with compliance tracking.
+- **[RivalSweep](https://rivalsweep.com/)** - Monitors competitors' pricing, changelog and product pages; keeps the before/after diff as evidence and labels AI classification as inference.
 
 ### Price Tracking
 
