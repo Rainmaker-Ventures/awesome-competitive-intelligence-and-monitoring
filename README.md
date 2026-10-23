@@ -60,6 +60,7 @@ Monitor competitor pricing strategies and changes.
 - **[Competera](https://competera.net/)** - AI-based pricing platform for retailers.
 - **[Omnia Retail](https://www.omniaretail.com/)** - Dynamic pricing and marketing automation.
 - **[DataWeave](https://dataweave.com/)** - AI-powered digital commerce data platform.
+- **[Intelis](https://www.intelis.ai/)** - AI product matching and competitor price tracking for Shopify and ecommerce stores, with rule-based repricing.
 
 ### Social Media Monitoring
 
