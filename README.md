@@ -225,6 +225,7 @@ Public data sources for competitive research.
 - **[SimilarWeb](https://www.similarweb.com/)** - Website traffic estimates.
 - **[Alexa (Archive.org)](https://web.archive.org/)** - Historical website snapshots.
 - **[BuiltWith Trends](https://trends.builtwith.com/)** - Technology adoption trends.
+- **[Vaneform](https://vaneform.com/)** - Free website traffic estimates, trends, sources, and growth leaderboards (hosted MCP available).
 
 ---
 
