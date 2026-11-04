@@ -40,6 +40,7 @@ Comprehensive platforms that monitor multiple competitor signals in one place.
 - **[Kompyte](https://www.kompyte.com/)** - Real-time competitive insights across digital channels.
 - **[Klue](https://klue.com/)** - Competitive enablement platform for tracking and distributing competitive insights.
 - **[Contify](https://www.contify.com/)** - Market and competitive intelligence platform with AI-powered curation.
+- **[EarlyLore](https://earlylore.com)** - Research workspace for founders to study real SaaS products, revenue signals, and competitor pricing, positioning, and feature-page changes before building.
 
 ### Website Monitoring
 
