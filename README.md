@@ -69,6 +69,7 @@ Track competitor social media activity and engagement.
 - **[Sprout Social](https://sproutsocial.com/)** - Social media management with competitor analysis.
 - **[Hootsuite](https://hootsuite.com/)** - Social media monitoring and scheduling.
 - **[Mention](https://mention.com/)** - Real-time social media and web monitoring.
+- **[IGDataHub](https://igdatahub.com/)** - Public Instagram profile stats, follower growth charts and account comparison.
 - **[Brand24](https://brand24.com/)** - Social listening and analytics tool.
 
 ### SEO & Content Intelligence
