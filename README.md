@@ -210,6 +210,7 @@ Public data sources for competitive research.
 - **[PitchBook](https://pitchbook.com/)** - Private market data.
 - **[CB Insights](https://www.cbinsights.com/)** - Tech market intelligence.
 - **[AngelList](https://angel.co/)** - Startup data and jobs.
+- **[Datacircle](https://datacircle.dev)** - Benchmarks of the GTM data APIs, with what each costs per 1,000 results.
 
 ### Financial Data
 - **[SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html)** - Public company filings (U.S.).
