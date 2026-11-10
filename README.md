@@ -162,6 +162,7 @@ In-depth resources and guides.
 - [First Round Review: Competitive Intelligence](https://review.firstround.com/the-art-of-the-start-guide-to-competitive-intelligence)
 - [Gartner's CI Best Practices](https://www.gartner.com/en/sales/topics/competitive-intelligence)
 - [CB Insights Research](https://www.cbinsights.com/research/) - Market intelligence reports
+- **[Pricing-change verification checklist](https://evidentsignal.com/downloads/pricing-change-verification-checklist.md)** - Editable checklist for comparing billing terms, customer eligibility, dated evidence and uncertainty before reporting a competitor pricing change.
 
 ---
 
