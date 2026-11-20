@@ -159,6 +159,7 @@ In-depth resources and guides.
 
 - [HubSpot's Competitive Analysis Guide](https://blog.hubspot.com/marketing/competitive-analysis-kit)
 - [Crayon's State of Competitive Intelligence Report](https://www.crayon.co/state-of-competitive-intelligence)
+- **[ExampleForge: Competitors and Customer Alternatives](https://www.ddscore.ai/example-report#er-section-7)** - A worked example using a fictional seed-stage company to map direct competitors, platform offerings, and customer alternatives when testing a differentiation claim.
 - [First Round Review: Competitive Intelligence](https://review.firstround.com/the-art-of-the-start-guide-to-competitive-intelligence)
 - [Gartner's CI Best Practices](https://www.gartner.com/en/sales/topics/competitive-intelligence)
 - [CB Insights Research](https://www.cbinsights.com/research/) - Market intelligence reports
