@@ -215,6 +215,12 @@ Public data sources for competitive research.
 - **[SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html)** - Public company filings (U.S.).
 - **[Companies House](https://www.gov.uk/government/organisations/companies-house)** - UK company data.
 - **[Yahoo Finance](https://finance.yahoo.com/)** - Stock data and financials.
+- **[Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder)** - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
+- **[Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper)** - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- **[Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper)** - New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP).
+- **[Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper)** - New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP).
+- **[Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper)** - New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
+- **[SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper)** - New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 
 ### Patent & IP
 - **[Google Patents](https://patents.google.com/)** - Patent search.
